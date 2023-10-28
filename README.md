@@ -24,7 +24,7 @@ Here are some project highlights and snapshots that showcase our work in action:
 - Fig 1
    ![Image 1](images/absentee.jpg)
 
-Figure I above displays the total number of reasons for work absences categorized by specific attributes:
+Figure 1 above displays the total number of reasons for work absences categorized by specific attributes:
 
 1. **Absence from Given Reasons**: This section helps us understand the given reasons behind work absences. It reveals that out of the total given reasons, medical reasons dominate, accounting for over 87% of employee absences. This highlights the importance of the organization focusing on employee health and well-being. To reduce absenteeism, the organization can implement initiatives such as wellness programs, regular health check-ups, and stress management workshops. These measures can significantly improve employees' general health and reduce the frequency of medical-related absences. By prioritizing employee health, the organization can create a more productive and supportive work environment.
    
