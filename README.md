@@ -12,7 +12,7 @@ Our primary objective was to dissect employee absenteeism from multiple angles, 
 
 My contributions to this project include:
 
-- Collaborating with a team of five individuals to conduct in-depth exploration into employee absenteeism.
+- Collaborating with a team of three individuals to conduct in-depth exploration into employee absenteeism.
 - Utilizing advanced DAX calculations within Power BI to refine and enrich the employee absenteeism datasets.
 - Creating and presenting a data story using Power BI dashboard visualizations.
 - Providing stakeholders with recommendations based on the valuable insights uncovered.
@@ -36,7 +36,7 @@ Figure 1 above displays the total number of reasons for work absences categorize
 
 5. **Absence by Body Mass**: The distribution of absence across different body mass categories reveals a compelling pattern. Although absenteeism is fairly evenly distributed among various body mass groups, it's noteworthy that a significant portion of absences occurs among obese, normal weight, and overweight employees. This points to an opportunity for the organization to implement programs aimed at promoting healthy weight management for obese and overweight employees, which can improve overall health and boost attendance, particularly considering that the majority of absenteeism is attributed to medical reasons. Additionally, a deeper analysis of normal-weight employees uncovered that their absences are often linked to family-related factors, highlighting the need for tailored strategies to enhance their presence in the workplace.
 
-These insights provide a valuable foundation for HR and management to make data-driven decisions and implement strategies to address specific factors influencing employee absenteeism.:
+These insights provide a valuable foundation for HR and management to make data-driven decisions and implement strategies to address specific factors influencing employee absenteeism
 
 #### Conclusion
 
